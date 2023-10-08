@@ -1,7 +1,7 @@
 # Data Visualization Projects
 This repository contains examples of dashboards I developed during my work at Tinkoff.
 
-**Tinkoff** is an online ecosystem of financial and non-financial services with over 35 million users (both retail customers and legal entities, including sole proprietors). In particular, Tinkoff is a group of companies which includes a bank, an insurance company,
+[**Tinkoff**](https://tinkoff-group.com/company-info/summary/) is an online ecosystem of financial and non-financial services with over 35 million users (both retail customers and legal entities, including sole proprietors). In particular, Tinkoff is a group of companies which includes a bank, an insurance company,
 a mobile operator, microfinance organizations, IT centers, etc.
 
 ## Tech Stack
