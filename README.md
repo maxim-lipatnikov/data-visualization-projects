@@ -69,7 +69,7 @@ which makes market analytics much more convenient.
 **The dashboard includes:**
 - Structure of assets and liabilities of the whole market in absolute values and in shares
 - Market size of the selected segment (segments are retail loans, loans to legal entities, retail deposits, legal entities' current accounts, etc.)
-- Market growth rate of the selected segment (segments are retail loans, loans to legal entities, retail deposits, legal entities current accounts, etc.) and rolling growth rate with an ability to choose the window size
+- Market growth rate of the selected segment and rolling growth rate with an ability to choose the window size
 - Top banks in the selected segment
 - Share of banks in the selected segment
 - Portfolio size of the selected bank in the selected segment with a growth rate line chart
@@ -91,11 +91,11 @@ the debit portfolio and interest expenses of Russian banks.
 Debit portfolio of a bank is a balance of clients' current accounts and deposits as of the selected date.
 Interest expenses are bank's expenses from operations related to raising funds at interest rate (for example, 
 accrued and paid interest on loans, deposits, securities, and other borrowed funds).
-In other words, this dashboard is made to analyze how much money clients have in their accounts/deposits and how expensive it is for the bank to raise these funds.
+In other words, this dashboard is made to analyze how much money clients have on their accounts/deposits and how expensive it is for the bank to raise these funds.
 
 **The dashboard includes:**
 - Market size and market share of Tinkoff with an ability to select the type of SME (legal entities, sole proprietors, or both)
-- Top banks by balance of debit portfolio
+- Top banks by the balance of debit portfolio
 - The same banks' balances by term (deposits/accounts)
 - The same banks' balances by currency (RUB/foreign currencies)
 - The same banks' interest expenses by term (deposits/accounts)
@@ -119,7 +119,7 @@ to select accounts/deposits/both types and a bank
 This dashboard was developed using open data from the Central Bank's website and shows 
 the mandatory ratios of the Central Bank.
 
-**Mandatory ratios of the Central Bank** are quantitative performance indicators that all Russian banks are required to comply with.
+**Mandatory ratios of the Central Bank** are quantitative performance indicators that all Russian banks must comply with.
 
 **Mandatory ratios include:**
 - capital adequacy ratio (N1)
